@@ -330,7 +330,7 @@ with st.container():
 # Add a footer with a colored banner and text
 footer_html = """
 <div style="background-color: #CC00FF; padding: 10px; text-align: center;">
-    <p style="color: white; font-size: 16px;">Prosync.AI - Your portfolio builder</p>
+    <p style="color: white; font-size: 16px;">GuideGuru.ai - Your portfolio builder</p>
 </div>
 """
 st.markdown(footer_html, unsafe_allow_html=True)
